@@ -1,0 +1,12 @@
+C:\Users\rafar\OneDrive\Escritorio\DentalLatina\DentalLatina\DentalLatina\bin\Debug\net8.0\DentalLatina.deps.json
+C:\Users\rafar\OneDrive\Escritorio\DentalLatina\DentalLatina\DentalLatina\bin\Debug\net8.0\DentalLatina.dll
+C:\Users\rafar\OneDrive\Escritorio\DentalLatina\DentalLatina\DentalLatina\bin\Debug\net8.0\DentalLatina.pdb
+C:\Users\rafar\OneDrive\Escritorio\DentalLatina\DentalLatina\DentalLatina\obj\Debug\net8.0\DentalLatina.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafar\OneDrive\Escritorio\DentalLatina\DentalLatina\DentalLatina\obj\Debug\net8.0\DentalLatina.AssemblyInfoInputs.cache
+C:\Users\rafar\OneDrive\Escritorio\DentalLatina\DentalLatina\DentalLatina\obj\Debug\net8.0\DentalLatina.AssemblyInfo.cs
+C:\Users\rafar\OneDrive\Escritorio\DentalLatina\DentalLatina\DentalLatina\obj\Debug\net8.0\DentalLatina.csproj.CoreCompileInputs.cache
+C:\Users\rafar\OneDrive\Escritorio\DentalLatina\DentalLatina\DentalLatina\obj\Debug\net8.0\DentalLatina.sourcelink.json
+C:\Users\rafar\OneDrive\Escritorio\DentalLatina\DentalLatina\DentalLatina\obj\Debug\net8.0\DentalLatina.dll
+C:\Users\rafar\OneDrive\Escritorio\DentalLatina\DentalLatina\DentalLatina\obj\Debug\net8.0\refint\DentalLatina.dll
+C:\Users\rafar\OneDrive\Escritorio\DentalLatina\DentalLatina\DentalLatina\obj\Debug\net8.0\DentalLatina.pdb
+C:\Users\rafar\OneDrive\Escritorio\DentalLatina\DentalLatina\DentalLatina\obj\Debug\net8.0\ref\DentalLatina.dll
