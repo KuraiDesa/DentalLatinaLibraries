@@ -10,7 +10,7 @@ namespace DentalLatina
         public List<string> subcategorias= new List<string>();
         public List<Producto> productos = new List<Producto>();
         public List<Evento> eventos = new List<Evento>();
-        public List<UsuariosInfo> usuarios = new List<UsuariosInfo>();
+        public List<Usuario> usuarios = new List<Usuario>();
         public List<Promocion> promociones = new List<Promocion>(); 
 
         //GETS
@@ -18,7 +18,7 @@ namespace DentalLatina
         public List<Producto> getProductos() {  return productos; }
         public List <Evento> getEventos() {  return eventos; }
         public List<string> getSubcategorias() { return subcategorias; }
-        public List<UsuariosInfo> getUsuarios() { return usuarios; }
+        public List<Usuario> getUsuarios() { return usuarios; }
         public List<Promocion> getPromociones() { return promociones; }
    
         
@@ -28,7 +28,7 @@ namespace DentalLatina
         public void setEventos(List<Evento> lista) {  eventos = lista; }
         public void setSubCat(List<string> lista) { subcategorias = lista; }
         public void setCategorias(string[] array) {  categorias = array; }
-        public void setUsuarios(List<UsuariosInfo> lista) {  usuarios = lista; }
+        public void setUsuarios(List<Usuario> lista) {  usuarios = lista; }
         public void setPromociones(List<Promocion> lsita) {  promociones = lsita; }
 
 
@@ -36,7 +36,7 @@ namespace DentalLatina
         public void addProducto(Producto producto){productos.Add(producto);}
         public void addSubCat(string subCat){subcategorias.Add(subCat);}
         public void addEvento(Evento evento) { eventos.Add(evento); }
-        public void addUsuario(UsuariosInfo user) {usuarios.Add(user);}
+        public void addUsuario(Usuario user) {usuarios.Add(user);}
         public void addPromocion(Promocion promocion) { promociones.Add(promocion); }
 
 
