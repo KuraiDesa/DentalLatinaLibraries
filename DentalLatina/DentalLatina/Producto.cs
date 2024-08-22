@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -20,9 +21,19 @@ namespace DentalLatina
             this.nombre = nombre;
             this.photoUrl = photoUrl;
             this.descripcion = descripcion;
-            this.precio = precio;
             this.categoria = categoria;
             this.subcategoria = subcategoria;
+            try{
+                this.precio = precio;
+            }
+            catch(FormatException)
+            {
+                //Hay que ver que hacer aca
+            }
+            catch (Exception ex)
+            {
+
+            }
         }
     }
 }

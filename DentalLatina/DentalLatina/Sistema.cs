@@ -1,28 +1,56 @@
-﻿namespace DentalLatina
+﻿using System.Reflection.Metadata.Ecma335;
+
+namespace DentalLatina
 {
     public class Sistema
     {
-        public static Sistema instancia = new Sistema();
-  
-        public string[] categorias = { "CLÍNICA", "LABORATORIO", "IMPLANTOLOGÍA" };
+
+        public static Sistema inst;
+        public string[] categorias = { "CLINICA", "LABORATORIO", "IMPLANTOLOGIA" };
         public List<string> subcategorias= new List<string>();
         public List<Producto> productos = new List<Producto>();
+        public List<Evento> eventos = new List<Evento>();
+        public List<UsuariosInfo> usuarios = new List<UsuariosInfo>();
+        public List<Promocion> promociones = new List<Promocion>(); 
+
+        //GETS
+        public string[] getCategoria() { return categorias; }
+        public List<Producto> getProductos() {  return productos; }
+        public List <Evento> getEventos() {  return eventos; }
+        public List<string> getSubcategorias() { return subcategorias; }
+        public List<UsuariosInfo> getUsuarios() { return usuarios; }
+        public List<Promocion> getPromociones() { return promociones; }
+   
         
 
-        public void agregarProducto(Producto producto)
-        {
-            productos.Add(producto);
-        }
-        public List<Producto> getProductos() {  return productos; }
-        public void agregarSubCat(string subCat)
-        {
-            subcategorias.Add(subCat);
-        }
-        public List<string> getSubcategorias() { return subcategorias; }
+        //SETS
+        public void setProductos(List<Producto> lista) {  productos = lista; }
+        public void setEventos(List<Evento> lista) {  eventos = lista; }
+        public void setSubCat(List<string> lista) { subcategorias = lista; }
+        public void setCategorias(string[] array) {  categorias = array; }
+        public void setUsuarios(List<UsuariosInfo> lista) {  usuarios = lista; }
+        public void setPromociones(List<Promocion> lsita) {  promociones = lsita; }
 
-        public string[] getCategoria()
+
+        //AGREGAR
+        public void addProducto(Producto producto){productos.Add(producto);}
+        public void addSubCat(string subCat){subcategorias.Add(subCat);}
+        public void addEvento(Evento evento) { eventos.Add(evento); }
+        public void addUsuario(UsuariosInfo user) {usuarios.Add(user);}
+        public void addPromocion(Promocion promocion) { promociones.Add(promocion); }
+
+
+
+
+        //FUNCIONALIDADES
+        public static Sistema instancia()
         {
-            return categorias;
+            if (inst == null)
+            {
+                inst = new Sistema();
+            }
+            return inst;
         }
+
     }
 }
