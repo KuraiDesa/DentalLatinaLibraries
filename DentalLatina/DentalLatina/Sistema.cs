@@ -7,19 +7,25 @@ namespace DentalLatina
 
         public static Sistema inst;
         public string[] categorias = { "CLINICA", "LABORATORIO", "IMPLANTOLOGIA" };
+        public string[] ubicacionEnvio = { "INTERIOR", "MONTEVIDEO" };
         public List<string> subcategorias= new List<string>();
         public List<Producto> productos = new List<Producto>();
         public List<Evento> eventos = new List<Evento>();
         public List<UsuariosInfo> usuarios = new List<UsuariosInfo>();
         public List<Promocion> promociones = new List<Promocion>(); 
+        public List<Oportunidad> oportunidades = new List<Oportunidad>(); 
+        public List<Envio> envios = new List<Envio>();
+
 
         //GETS
         public string[] getCategoria() { return categorias; }
+        public string[] getUbicacionEnvio() { return ubicacionEnvio; }
         public List<Producto> getProductos() {  return productos; }
         public List <Evento> getEventos() {  return eventos; }
         public List<string> getSubcategorias() { return subcategorias; }
         public List<UsuariosInfo> getUsuarios() { return usuarios; }
         public List<Promocion> getPromociones() { return promociones; }
+        public List<Envio> getEnvios() { return envios; }
    
         
 
@@ -30,6 +36,7 @@ namespace DentalLatina
         public void setCategorias(string[] array) {  categorias = array; }
         public void setUsuarios(List<UsuariosInfo> lista) {  usuarios = lista; }
         public void setPromociones(List<Promocion> lsita) {  promociones = lsita; }
+        public void setEnvios(List<Envio> lista) {  envios = lista; }
 
 
         //AGREGAR
@@ -38,6 +45,7 @@ namespace DentalLatina
         public void addEvento(Evento evento) { eventos.Add(evento); }
         public void addUsuario(UsuariosInfo user) {usuarios.Add(user);}
         public void addPromocion(Promocion promocion) { promociones.Add(promocion); }
+        public void addEnvio(Envio envio) { envios.Add(envio); }
 
 
 

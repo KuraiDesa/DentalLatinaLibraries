@@ -10,7 +10,6 @@ namespace DentalLatina
     {
         public static int id = 0;
         public string titulo {  get; set; }
-
         public string descripcion { get; set;}
         public int promoId { get; set; }
 
