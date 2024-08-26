@@ -10,9 +10,9 @@ namespace DentalLatina
     {
         public string nombreEvento {  get; set; }
         public string descripcion { get; set; }
-        public DateOnly eventoFecha { get; set; }
+        public DateTime eventoFecha { get; set; }
 
-        public Evento(string nombre, string descripcion, DateOnly fecha) {
+        public Evento(string nombre, string descripcion, DateTime fecha) {
             this.nombreEvento = nombre;
             this.descripcion = descripcion;
             this.eventoFecha = fecha;

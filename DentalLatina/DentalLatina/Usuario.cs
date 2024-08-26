@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DentalLatina
 {
-    public class UsuariosInfo
+    public class Usuario
     {
         public static int id;
         public string nombre {  get; set; }
@@ -14,13 +14,13 @@ namespace DentalLatina
         public string mail { get; set;}
         public int idUser { get; set; }
 
-        public UsuariosInfo(string nombre, string apellido, string mail) {
+
+        public Usuario(string nombre, string apellido, string mail) {
             this.nombre = nombre;
             this.apellido = apellido;
             this.mail = mail;
             id++;
             this.idUser = id;
-        }
-        
+        }       
     }
 }
