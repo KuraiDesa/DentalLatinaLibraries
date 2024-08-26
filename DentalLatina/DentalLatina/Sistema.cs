@@ -15,6 +15,8 @@ namespace DentalLatina
         public List<Promocion> promociones = new List<Promocion>(); 
         public List<Oportunidad> oportunidades = new List<Oportunidad>(); 
         public List<Envio> envios = new List<Envio>();
+        public List<Sucursal> sucursales = new List<Sucursal>();
+        public List<Libro> libros = new List<Libro>();
 
 
         //GETS
@@ -26,6 +28,8 @@ namespace DentalLatina
         public List<UsuariosInfo> getUsuarios() { return usuarios; }
         public List<Promocion> getPromociones() { return promociones; }
         public List<Envio> getEnvios() { return envios; }
+        public List<Sucursal > getSucursales() { return sucursales; }
+        public List<Libro> getLibros() { return libros; }
    
         
 
@@ -37,6 +41,8 @@ namespace DentalLatina
         public void setUsuarios(List<UsuariosInfo> lista) {  usuarios = lista; }
         public void setPromociones(List<Promocion> lsita) {  promociones = lsita; }
         public void setEnvios(List<Envio> lista) {  envios = lista; }
+        public void setSucursales(List<Sucursal> lista) { sucursales = lista; }
+        public void setLibros(List<Libro> lista) {  libros = lista; }
 
 
         //AGREGAR
@@ -46,8 +52,8 @@ namespace DentalLatina
         public void addUsuario(UsuariosInfo user) {usuarios.Add(user);}
         public void addPromocion(Promocion promocion) { promociones.Add(promocion); }
         public void addEnvio(Envio envio) { envios.Add(envio); }
-
-
+        public void addSucursal(Sucursal sucursal) {  sucursales.Add(sucursal); }
+        public void addLibro(Libro libro) {  libros.Add(libro);}
 
 
         //FUNCIONALIDADES

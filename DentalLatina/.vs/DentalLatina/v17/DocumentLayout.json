@@ -3,20 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\rafar\\Desktop\\DentalLatina\\DentalLatina\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5469511B-ADC3-42B5-B71A-DA4CDACEB74B}|DentalLatina\\DentalLatina.csproj|c:\\users\\rafar\\desktop\\dentallatina\\dentallatina\\dentallatina\\sistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5469511B-ADC3-42B5-B71A-DA4CDACEB74B}|DentalLatina\\DentalLatina.csproj|solutionrelative:dentallatina\\sistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5469511B-ADC3-42B5-B71A-DA4CDACEB74B}|DentalLatina\\DentalLatina.csproj|c:\\users\\rafar\\desktop\\dentallatina\\dentallatina\\dentallatina\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5469511B-ADC3-42B5-B71A-DA4CDACEB74B}|DentalLatina\\DentalLatina.csproj|solutionrelative:dentallatina\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5469511B-ADC3-42B5-B71A-DA4CDACEB74B}|DentalLatina\\DentalLatina.csproj|c:\\users\\rafar\\desktop\\dentallatina\\dentallatina\\dentallatina\\link.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5469511B-ADC3-42B5-B71A-DA4CDACEB74B}|DentalLatina\\DentalLatina.csproj|solutionrelative:dentallatina\\link.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5469511B-ADC3-42B5-B71A-DA4CDACEB74B}|DentalLatina\\DentalLatina.csproj|c:\\users\\rafar\\desktop\\dentallatina\\dentallatina\\dentallatina\\sucursal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5469511B-ADC3-42B5-B71A-DA4CDACEB74B}|DentalLatina\\DentalLatina.csproj|solutionrelative:dentallatina\\sucursal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5469511B-ADC3-42B5-B71A-DA4CDACEB74B}|DentalLatina\\DentalLatina.csproj|c:\\users\\rafar\\desktop\\dentallatina\\dentallatina\\dentallatina\\usuariosinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5469511B-ADC3-42B5-B71A-DA4CDACEB74B}|DentalLatina\\DentalLatina.csproj|solutionrelative:dentallatina\\usuariosinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5469511B-ADC3-42B5-B71A-DA4CDACEB74B}|DentalLatina\\DentalLatina.csproj|c:\\users\\rafar\\desktop\\dentallatina\\dentallatina\\dentallatina\\envio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5469511B-ADC3-42B5-B71A-DA4CDACEB74B}|DentalLatina\\DentalLatina.csproj|solutionrelative:dentallatina\\envio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5469511B-ADC3-42B5-B71A-DA4CDACEB74B}|DentalLatina\\DentalLatina.csproj|c:\\users\\rafar\\desktop\\dentallatina\\dentallatina\\dentallatina\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5469511B-ADC3-42B5-B71A-DA4CDACEB74B}|DentalLatina\\DentalLatina.csproj|solutionrelative:dentallatina\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5469511B-ADC3-42B5-B71A-DA4CDACEB74B}|DentalLatina\\DentalLatina.csproj|c:\\users\\rafar\\desktop\\dentallatina\\dentallatina\\dentallatina\\sistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5469511B-ADC3-42B5-B71A-DA4CDACEB74B}|DentalLatina\\DentalLatina.csproj|solutionrelative:dentallatina\\sistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5469511B-ADC3-42B5-B71A-DA4CDACEB74B}|DentalLatina\\DentalLatina.csproj|c:\\users\\rafar\\desktop\\dentallatina\\dentallatina\\dentallatina\\usuariosinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5469511B-ADC3-42B5-B71A-DA4CDACEB74B}|DentalLatina\\DentalLatina.csproj|solutionrelative:dentallatina\\usuariosinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5469511B-ADC3-42B5-B71A-DA4CDACEB74B}|DentalLatina\\DentalLatina.csproj|c:\\users\\rafar\\desktop\\dentallatina\\dentallatina\\dentallatina\\promocion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,19 +58,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Envio.cs",
-              "DocumentMoniker": "C:\\Users\\rafar\\Desktop\\DentalLatina\\DentalLatina\\DentalLatina\\Envio.cs",
-              "RelativeDocumentMoniker": "DentalLatina\\Envio.cs",
-              "ToolTip": "C:\\Users\\rafar\\Desktop\\DentalLatina\\DentalLatina\\DentalLatina\\Envio.cs",
-              "RelativeToolTip": "DentalLatina\\Envio.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAA0wBwAAAAeAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Link.cs",
+              "DocumentMoniker": "C:\\Users\\rafar\\Desktop\\DentalLatina\\DentalLatina\\DentalLatina\\Link.cs",
+              "RelativeDocumentMoniker": "DentalLatina\\Link.cs",
+              "ToolTip": "C:\\Users\\rafar\\Desktop\\DentalLatina\\DentalLatina\\DentalLatina\\Link.cs",
+              "RelativeToolTip": "DentalLatina\\Link.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T13:24:02.732Z",
+              "WhenOpened": "2024-08-26T14:20:27.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "C:\\Users\\rafar\\Desktop\\DentalLatina\\DentalLatina\\DentalLatina\\Libro.cs",
+              "RelativeDocumentMoniker": "DentalLatina\\Libro.cs",
+              "ToolTip": "C:\\Users\\rafar\\Desktop\\DentalLatina\\DentalLatina\\DentalLatina\\Libro.cs",
+              "RelativeToolTip": "DentalLatina\\Libro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T14:16:09.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Sucursal.cs",
+              "DocumentMoniker": "C:\\Users\\rafar\\Desktop\\DentalLatina\\DentalLatina\\DentalLatina\\Sucursal.cs",
+              "RelativeDocumentMoniker": "DentalLatina\\Sucursal.cs",
+              "ToolTip": "C:\\Users\\rafar\\Desktop\\DentalLatina\\DentalLatina\\DentalLatina\\Sucursal.cs",
+              "RelativeToolTip": "DentalLatina\\Sucursal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T14:08:15.395Z",
               "EditorCaption": ""
             },
             {
@@ -68,6 +106,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "Envio.cs",
+              "DocumentMoniker": "C:\\Users\\rafar\\Desktop\\DentalLatina\\DentalLatina\\DentalLatina\\Envio.cs",
+              "RelativeDocumentMoniker": "DentalLatina\\Envio.cs",
+              "ToolTip": "C:\\Users\\rafar\\Desktop\\DentalLatina\\DentalLatina\\DentalLatina\\Envio.cs",
+              "RelativeToolTip": "DentalLatina\\Envio.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAIwBwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T13:24:02.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Oportunidad.cs",
               "DocumentMoniker": "C:\\Users\\rafar\\Desktop\\DentalLatina\\DentalLatina\\DentalLatina\\Oportunidad.cs",
               "RelativeDocumentMoniker": "DentalLatina\\Oportunidad.cs",
@@ -75,12 +126,11 @@
               "RelativeToolTip": "DentalLatina\\Oportunidad.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T22:45:56.566Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-21T22:45:56.566Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Promocion.cs",
               "DocumentMoniker": "C:\\Users\\rafar\\Desktop\\DentalLatina\\DentalLatina\\DentalLatina\\Promocion.cs",
               "RelativeDocumentMoniker": "DentalLatina\\Promocion.cs",
@@ -88,25 +138,24 @@
               "RelativeToolTip": "DentalLatina\\Promocion.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T22:40:06.539Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-21T22:40:06.539Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "UsuariosInfo.cs",
               "DocumentMoniker": "C:\\Users\\rafar\\Desktop\\DentalLatina\\DentalLatina\\DentalLatina\\UsuariosInfo.cs",
               "RelativeDocumentMoniker": "DentalLatina\\UsuariosInfo.cs",
               "ToolTip": "C:\\Users\\rafar\\Desktop\\DentalLatina\\DentalLatina\\DentalLatina\\UsuariosInfo.cs",
               "RelativeToolTip": "DentalLatina\\UsuariosInfo.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAuwB0AAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-21T22:02:37.396Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Evento.cs",
               "DocumentMoniker": "C:\\Users\\rafar\\Desktop\\DentalLatina\\DentalLatina\\DentalLatina\\Evento.cs",
               "RelativeDocumentMoniker": "DentalLatina\\Evento.cs",
@@ -118,7 +167,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "ConsoleApp1.csproj",
               "DocumentMoniker": "C:\\Users\\rafar\\Desktop\\DentalLatina\\DentalLatina\\ConsoleApp1\\ConsoleApp1.csproj",
               "RelativeDocumentMoniker": "ConsoleApp1\\ConsoleApp1.csproj",
@@ -130,7 +179,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\rafar\\Desktop\\DentalLatina\\DentalLatina\\ConsoleApp1\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
@@ -142,7 +191,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Producto.cs",
               "DocumentMoniker": "C:\\Users\\rafar\\Desktop\\DentalLatina\\DentalLatina\\DentalLatina\\Producto.cs",
               "RelativeDocumentMoniker": "DentalLatina\\Producto.cs",
@@ -150,18 +199,17 @@
               "RelativeToolTip": "DentalLatina\\Producto.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAUwCUAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T19:39:13.859Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-21T19:39:13.859Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Sistema.cs",
               "DocumentMoniker": "C:\\Users\\rafar\\Desktop\\DentalLatina\\DentalLatina\\DentalLatina\\Sistema.cs",
               "RelativeDocumentMoniker": "DentalLatina\\Sistema.cs",
               "ToolTip": "C:\\Users\\rafar\\Desktop\\DentalLatina\\DentalLatina\\DentalLatina\\Sistema.cs",
               "RelativeToolTip": "DentalLatina\\Sistema.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAABGAAAAAAAAAA==",
+              "ViewState": "AgIAACMAAAAAAAAAAAAiwDcAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-20T23:49:30.425Z",
               "EditorCaption": ""
