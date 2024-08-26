@@ -9,6 +9,8 @@ namespace DentalLatina
 {
     public class Producto
     {
+        public static int id = 0;
+        public int prodId {  get; set; }
         public string nombre { get; set; }
         public string photoUrl { get; set; }
         public string descripcion { get; set; }
@@ -34,6 +36,8 @@ namespace DentalLatina
             {
 
             }
+            id++;
+            prodId = id;
         }
     }
 }

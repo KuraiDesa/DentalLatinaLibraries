@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rafar\\OneDrive\\Escritorio\\DentalLatina\\DentalLatina\\DentalLatina\\DentalLatina.csproj": {}
+    "C:\\Users\\rafar\\Desktop\\DentalLatina\\DentalLatina\\DentalLatina\\DentalLatina.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rafar\\OneDrive\\Escritorio\\DentalLatina\\DentalLatina\\DentalLatina\\DentalLatina.csproj": {
+    "C:\\Users\\rafar\\Desktop\\DentalLatina\\DentalLatina\\DentalLatina\\DentalLatina.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rafar\\OneDrive\\Escritorio\\DentalLatina\\DentalLatina\\DentalLatina\\DentalLatina.csproj",
+        "projectUniqueName": "C:\\Users\\rafar\\Desktop\\DentalLatina\\DentalLatina\\DentalLatina\\DentalLatina.csproj",
         "projectName": "DentalLatina",
-        "projectPath": "C:\\Users\\rafar\\OneDrive\\Escritorio\\DentalLatina\\DentalLatina\\DentalLatina\\DentalLatina.csproj",
+        "projectPath": "C:\\Users\\rafar\\Desktop\\DentalLatina\\DentalLatina\\DentalLatina\\DentalLatina.csproj",
         "packagesPath": "C:\\Users\\rafar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rafar\\OneDrive\\Escritorio\\DentalLatina\\DentalLatina\\DentalLatina\\obj\\",
+        "outputPath": "C:\\Users\\rafar\\Desktop\\DentalLatina\\DentalLatina\\DentalLatina\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rafar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -22,6 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -60,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
